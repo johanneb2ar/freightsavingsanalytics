@@ -1,4 +1,4 @@
-# freightsavingsanalytics
+# Allina Health Freight Savings Analytics
 This repository hosts the 'Allina Health Freight Savings Analytics' project, a multi-faceted analytical framework designed to streamline and optimize freight costs. The project showcases a complete lifecycle from raw data analysis to actionable cost-saving measures, all tailored for Allina Health, featuring a blend of data preprocessing, a robust recommendation system, and effective freight cost reduction strategies.
 
 This project is structured into three main components, each critical to our overall objective of optimizing freight cost savings. We advise all users to navigate through the directories in the sequential order of 1-2-3 for a comprehensive understanding.
